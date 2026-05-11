@@ -1,0 +1,10 @@
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\bin\x86\Debug\Lab25.exe.config
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\bin\x86\Debug\Lab25.exe
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\bin\x86\Debug\Lab25.pdb
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\obj\x86\Debug\Lab25.csproj.AssemblyReference.cache
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\obj\x86\Debug\Lab25.Form1.resources
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\obj\x86\Debug\Lab25.Properties.Resources.resources
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\obj\x86\Debug\Lab25.csproj.GenerateResource.cache
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\obj\x86\Debug\Lab25.csproj.CoreCompileInputs.cache
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\obj\x86\Debug\Lab25.exe
+D:\instruments\VisualStudioProjects\OOP\Lab25\Lab25\obj\x86\Debug\Lab25.pdb

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\lab25\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|solutionrelative:lab25\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\lab25\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|solutionrelative:lab25\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\lab25\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|solutionrelative:lab25\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|d:\\instruments\\visualstudioprojects\\oop\\lab25\\lab25\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|solutionrelative:lab25\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\lab25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|solutionrelative:lab25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\lab25\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5C262F-7755-46A4-BD56-FB427DC60A92}|Lab25\\Lab25.csproj|solutionrelative:lab25\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab25\\Form1.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Form1.cs",
+              "RelativeToolTip": "Lab25\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:33:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab25\\Form1.Designer.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab25\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:35:33.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Sport.cs",
+              "RelativeDocumentMoniker": "Lab25\\Sport.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Sport.cs",
+              "RelativeToolTip": "Lab25\\Sport.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:06:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBController.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\DBController.cs",
+              "RelativeDocumentMoniker": "Lab25\\DBController.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\DBController.cs",
+              "RelativeToolTip": "Lab25\\DBController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:54:55.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Program.cs",
+              "RelativeDocumentMoniker": "Lab25\\Program.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Program.cs",
+              "RelativeToolTip": "Lab25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:39:07.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab25\\Form1.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab25\\Lab25\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab25\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:30:12.508Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
